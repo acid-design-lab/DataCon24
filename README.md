@@ -135,6 +135,10 @@
 
    CPP sequence FSLHRYMAWFCPWTGAWLMLD is predicted to **BIND** to the membrane.
 
+### Membrane permeability prediction
+
+   For so-called stapled peptides consisting of both natural and modified amino acids you can predict membrane permeability using [STAPEP package](https://github.com/dahuilangda/stapep_package) offering the full pipeline from data preprocessing to ML model development and use on novel samples.
+
    ![image](https://github.com/acid-design-lab/DataCon24/assets/82499756/b43c427b-c504-471d-97f8-fee6988ffd22)
 
    Non-CPP sequence is predicted **NOT TO BIND** to the membrane.
