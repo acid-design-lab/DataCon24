@@ -17,6 +17,7 @@
 ### Project pipeline
 
    Here are the main steps which will allow you to build a precise model for CPP design:
+   
    **1. Data curation and cleaning.** All inappropriate or ambiguous data should be removed or corrected.
    **2. Data unification.** The data presented in Datasets are heterogeneous and should be unified in terms of variables, measurement units etc.
    **3. System parametriation.** You need to choose the set of parameters to describe CPPs as well as experimental setup. Most of the models use symbolic representations lacking physico-chemical properties crucial for CPP activity prediction.
