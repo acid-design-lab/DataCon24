@@ -1,6 +1,6 @@
 # DataCon 3.0
 
-![Project logo](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41557-021-00866-0/MediaObjects/41557_2021_866_Figa_HTML.png)
+![Project logo](https://t3.ftcdn.net/jpg/04/87/14/48/360_F_487144857_lwRd6hyeEktmt70UOAgojHzlwvY6OgQp.jpg)
 
 ## Data description
 
