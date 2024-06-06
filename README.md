@@ -2,7 +2,7 @@
 
 ## Data description
 
-1. Mixed CPPs.
+### 1. Mixed CPPs
    
     Contains CPPs with natural or modified amino acids.
 
@@ -21,7 +21,7 @@
           - uptake type,
           - sequence.
 
-2. Natural CPPs.
+### 2. Natural CPPs
    
     Contains only sequences with natural amino acids.
 
@@ -39,7 +39,7 @@
       
        Contain CPP sequences with high (but not stated) uptake in .txt format.
 
-3. Non-CPPs.
+### 3. Non-CPPs
    
     Contains negative CPP samples in .txt format.
 
@@ -52,7 +52,7 @@
       
        Contains non-CPP sequences shown not to demonstrate activity experimentally.
 
-4. Non-Natural CPPs.
+### 4. Non-Natural CPPs
    
     Contains CPPs consisting of non-natural amino acids.
 
