@@ -6,6 +6,7 @@ Data description:
 Contains CPPs with natural or modified amino acids.
 
   1.1. POSEIDON
+  
   Contains heterogeneous experimental data regarding CPP (natural and non-natural amino acids) activity measurements (.csv format), which are:
   1) peptide name,
   2) target cell line CPP was tested on cell penetration ability,
