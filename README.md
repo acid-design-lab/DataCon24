@@ -14,6 +14,8 @@
 
 ### Project pipeline
 
+![ml-project-pipeline](https://github.com/acid-design-lab/DataCon24/assets/82499756/fe94406a-eaf2-46c0-8935-82e1fc4192ca)
+
    Our ultimate goal is to develop precise machine learning (ML) model allowing to **design CPPs with superior activity**. Here are the main steps which will allow you to build a precise model for CPP design:
    
    **1. Data curation and cleaning.** All inappropriate or ambiguous data should be removed or corrected.
@@ -29,8 +31,6 @@
    **6. Evaluation.** Every model should be evaluated beyond performance on train/test datasets. It can be structural analysis of CPP candidates, modelling of interaction with cellular membranes etc.
    
    **7. Project design.** All results should be structured and systematized on GitHub for transparency and reproducibility.
-
-   ![ml-project-pipeline](https://github.com/acid-design-lab/DataCon24/assets/82499756/fe94406a-eaf2-46c0-8935-82e1fc4192ca)
 
 ### Challenges
 
