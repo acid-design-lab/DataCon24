@@ -19,11 +19,17 @@
    Here are the main steps which will allow you to build a precise model for CPP design:
    
    **1. Data curation and cleaning.** All inappropriate or ambiguous data should be removed or corrected.
+   
    **2. Data unification.** The data presented in Datasets are heterogeneous and should be unified in terms of variables, measurement units etc.
+   
    **3. System parametriation.** You need to choose the set of parameters to describe CPPs as well as experimental setup. Most of the models use symbolic representations lacking physico-chemical properties crucial for CPP activity prediction.
+   
    **4. Model selection.** Best-performing models should be choosen for screening depending on the task complexity (sequence classification or sequence generation).
+   
    **5. Feature selecction.** After model selection, features used in the model should be choosen showing optimal prediction performance, robustness, and interpretability.
+   
    **6. Evaluation.** Every model should be evaluated beyond performance on train/test datasets. It can be structural analysis of CPP candidates, modelling of interaction with cellular membranes etc.
+   
    **7. Project design.** All results should be structured and systematized on GitHub for transparency and reproducibility.
 
 ### Challenges
