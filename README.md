@@ -4,7 +4,7 @@ Data description:
 
 1. Mixed CPPs.
    
-Contains CPPs with natural or modified amino acids.
+  Contains CPPs with natural or modified amino acids.
 
        1.1. POSEIDON
 
