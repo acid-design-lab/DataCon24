@@ -47,7 +47,7 @@
    2. **Available datasets** for model development (see **Data Description** section)
    3. **Useful tools** for property and structure prediction (see **Useful tools** section and relevant folder)
 
-## Data description :desktop_computer:
+## Data description :floppy_disk:
 
 ### 1. Mixed CPPs
    
