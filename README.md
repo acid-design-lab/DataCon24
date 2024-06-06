@@ -36,7 +36,7 @@
 
    The main challenge here is to develop **unbiased model** not limited to existing CPP structures and cell penetration mechanisms. Another challenge is to develop CPPs **for particular drug delivery system and setup**, which includes multi-property optimization (amphiphilicity, molecular weight, toxicity etc.). Finally, models should be **interpretable**, which means user should know why particular CPP demonstrates its activity, and what are the possible ways to improve it further.
 
-### Schedule
+### Schedule :calendar:
 
    DataCon 3.0 includes not only practices but authoritative lectures and other activities, therefore check for any schedule updates [HERE](https://scamt.ifmo.ru/datacon/).
 
