@@ -127,3 +127,17 @@
 
    ![3d structure](https://github.com/acid-design-lab/DataCon24/assets/82499756/93b60dd2-b627-4c46-82c9-6127af4e26bb)
 
+### Modelling of interaction with membrane
+
+   For CPPs from 7 to 24 amino acids you can use PMIpred neural network model trained on Molecular Dynamics (MD) data to predict its interaction with the cellular membrane. Please use modelling on neutral membrane for better differentiation between CPPs and non-CPPs.
+
+   Example: 
+
+   CPP sequence FSLHRYMAWFCPWTGAWLMLD is predicted to **BIND** to the membrane.
+
+   ![image](https://github.com/acid-design-lab/DataCon24/assets/82499756/b43c427b-c504-471d-97f8-fee6988ffd22)
+
+   Non-CPP sequence is predicted **NOT TO BIND** to the membrane.
+
+   ![image](https://github.com/acid-design-lab/DataCon24/assets/82499756/2b559f32-b117-49a0-a3a2-a3298dabcd6c)
+
