@@ -129,7 +129,7 @@
 
 ### Modelling of interaction with membrane
 
-   For CPPs from 7 to 24 amino acids you can use PMIpred neural network model trained on Molecular Dynamics (MD) data to predict its interaction with the cellular membrane. Please use modelling on neutral membrane for better differentiation between CPPs and non-CPPs.
+   For CPPs from 7 to 24 amino acids you can use [PMIpred neural network model](https://pmipred.fkt.physik.tu-dortmund.de/curvature-sensing-peptide/) trained on Molecular Dynamics (MD) data to predict its interaction with the cellular membrane. Please use modelling on neutral membrane for better differentiation between CPPs and non-CPPs.
 
    Example: 
 
