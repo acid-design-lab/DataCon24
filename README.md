@@ -3,6 +3,7 @@
 Data description:
 
 1. Mixed CPPs.
+   
 Contains CPPs with natural or modified amino acids.
 
        1.1. POSEIDON
@@ -20,7 +21,7 @@ Contains CPPs with natural or modified amino acids.
           - uptake type,
           - sequence.
 
-2. Natural CPPs.
+3. Natural CPPs.
    
 Contains only sequences with natural amino acids.
 
