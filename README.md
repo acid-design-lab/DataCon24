@@ -6,7 +6,7 @@ Data description:
    
     Contains CPPs with natural or modified amino acids.
 
-       1.1. POSEIDON
+       ## 1.1. POSEIDON
 
         Contains heterogeneous experimental data regarding CPP (natural and non-natural amino acids) activity measurements (.csv format), which are:
           - peptide name,
@@ -53,10 +53,10 @@ Data description:
    
     Contains CPPs consisting of non-natural amino acids.
 
-       # 4.1. CPPBase_modified
+       4.1. CPPBase_modified
       
        Contains a list of modified CPPs with experimentally proved activity in .fasta format.
       
-       # 4.2. CPPBase_modified_symbols
+       4.2. CPPBase_modified_symbols
       
        Contains a list of abbreviations for modified amino acids  in .txt format (ABBREVIATION: NAME; ...: ...).
