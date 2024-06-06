@@ -1,0 +1,8 @@
+Small letters: D-isoform;
+O: Ornithine;
+Ahx: 6-aminohexanoic acid; 
+B: Beta-Alanine;
+U: α-amino isobutyric acid (Aib);
+Φ: L-2-naphthylalanine;
+J: l-2,3-diaminopropionic acid;
+X: other molecules (α-amino isobutyric acid, 1-aminocyclopentane-1-carboxylic acids (Ac5c), aeDP, aminoethylpropyl, 4-amino-butanoic acid, aeLP, aminoethylpropyl, aminohexyl residue, apDP, aminopropylpropyl, apLP, aminopropylpropyl, etc.)
