@@ -22,6 +22,13 @@
 
    DataCon 3.0 includes not only practices but authoritative lectures and other activities, therefore check for any schedule updates [HERE](https://scamt.ifmo.ru/datacon/).
 
+### Contents
+
+   This repository contains the following data:
+   1. **Articles about CPPs** to read (see the relevant folder)
+   2. **Available datasets** for model development (see **Data Description** section)
+   3. **Useful tools** for property and structure prediction (see **Useful tools** section and relevant folder)
+
 ## Data description
 
 ### 1. Mixed CPPs
