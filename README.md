@@ -39,7 +39,11 @@
    
        2.3. Experimental_high_uptake
       
-       Contain CPP sequences with high (but not stated) uptake in .txt format.
+       Contains CPP sequences with high (but not stated) uptake in .txt format.
+
+       2.4. Balanced_dataset
+       
+       Represents a balanced dataset of CPPs and non-CPPs; often used for model benchmarking.
 
 ### 3. Non-CPPs
    
