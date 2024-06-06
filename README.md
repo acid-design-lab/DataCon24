@@ -28,10 +28,12 @@ Data description:
        2.1. CPPBase
       
        Contains sequences of CPPs with experimentally proved activity in .fasta format.
+
    
        2.2. Experimental and Experimental2
       
        Contain more sequences of CPPs with experimentally proved activity in .txt format.
+
    
        2.3. Experimental_high_uptake
       
@@ -44,6 +46,7 @@ Data description:
        3.1. Generated
       
        Contains randomly generated sequences treated as negative.
+
    
        3.2. Experimental
       
@@ -56,6 +59,7 @@ Data description:
        4.1. CPPBase_modified
       
        Contains a list of modified CPPs with experimentally proved activity in .fasta format.
+
       
        4.2. CPPBase_modified_symbols
       
