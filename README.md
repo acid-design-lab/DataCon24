@@ -4,7 +4,7 @@
 
 ### 1. Mixed CPPs
    
-    Contains CPPs with natural or modified amino acids.
+   Contains CPPs with natural or modified amino acids.
 
        1.1. POSEIDON
 
@@ -23,7 +23,7 @@
 
 ### 2. Natural CPPs
    
-    Contains only sequences with natural amino acids.
+   Contains only sequences with natural amino acids.
 
        2.1. CPPBase
       
@@ -41,7 +41,7 @@
 
 ### 3. Non-CPPs
    
-    Contains negative CPP samples in .txt format.
+   Contains negative CPP samples in .txt format.
 
        3.1. Generated
       
@@ -54,7 +54,7 @@
 
 ### 4. Non-Natural CPPs
    
-    Contains CPPs consisting of non-natural amino acids.
+   Contains CPPs consisting of non-natural amino acids.
 
        4.1. CPPBase_modified
       
