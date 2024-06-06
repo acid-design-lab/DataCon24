@@ -4,10 +4,23 @@
 
 ## About the project
 
+### What are CPPs?
+
    **Cell-penetrating peptides (CPPs)** are short sequences of amino acids that have the remarkable ability to cross cellular membranes, facilitating the intracellular delivery of various therapeutic agents, including drugs, nucleic acids, and proteins. These peptides exploit mechanisms such as direct penetration or endocytosis to traverse cell membranes, making them powerful tools in drug delivery systems. 
    
    In real-world medical applications, CPPs are being leveraged to enhance the efficacy of treatments for a range of conditions. For instance, they are used in targeted cancer therapies to deliver chemotherapeutic agents directly to tumor cells, minimizing damage to healthy tissues. Additionally, CPPs are employed in gene therapy to transport genetic material into cells, offering potential treatments for genetic disorders like cystic fibrosis and muscular dystrophy. Their versatility and efficiency in overcoming cellular barriers position CPPs as a promising frontier in the development of advanced therapeutic strategies.
 
+### Project aim
+
+   Our ultimate goal is to develop precise machine learning (ML) model allowing to **design CPPs with superior activity**.
+
+### Challenges
+
+   The main challenge here is to develop **unbiased model** not limited to existing CPP structures and cell penetration mechanisms. Another challenge is to develop CPPs **for particular drug delivery system and setup**, which includes multi-property optimization (amphiphilicity, molecular weight, toxicity etc.). Finally, models should be **interpretable**, which means user should know why particular CPP demonstrates its activity, and what are the possible ways to improve it further.
+
+### Schedule
+
+   DataCon 3.0 includes not only practices but authoritative lectures and other activities, therefore check for any schedule updates [HERE]([https://link-url-here.org](https://scamt.ifmo.ru/datacon/)).
 
 ## Data description
 
