@@ -20,7 +20,7 @@
 
 ### Schedule
 
-   DataCon 3.0 includes not only practices but authoritative lectures and other activities, therefore check for any schedule updates [HERE]([https://link-url-here.org](https://scamt.ifmo.ru/datacon/)).
+   DataCon 3.0 includes not only practices but authoritative lectures and other activities, therefore check for any schedule updates [HERE](https://link-url-here.org](https://scamt.ifmo.ru/datacon/).
 
 ## Data description
 
