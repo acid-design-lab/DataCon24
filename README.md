@@ -10,13 +10,9 @@
    
    In real-world medical applications, CPPs are being leveraged to enhance the efficacy of treatments for a range of conditions. For instance, they are used in targeted cancer therapies to deliver chemotherapeutic agents directly to tumor cells, minimizing damage to healthy tissues. Additionally, CPPs are employed in gene therapy to transport genetic material into cells, offering potential treatments for genetic disorders like cystic fibrosis and muscular dystrophy. Their versatility and efficiency in overcoming cellular barriers position CPPs as a promising frontier in the development of advanced therapeutic strategies.
 
-### Project aim
-
-   Our ultimate goal is to develop precise machine learning (ML) model allowing to **design CPPs with superior activity**.
-
 ### Project pipeline
 
-   Here are the main steps which will allow you to build a precise model for CPP design:
+   Our ultimate goal is to develop precise machine learning (ML) model allowing to **design CPPs with superior activity**. Here are the main steps which will allow you to build a precise model for CPP design:
    
    **1. Data curation and cleaning.** All inappropriate or ambiguous data should be removed or corrected.
    
