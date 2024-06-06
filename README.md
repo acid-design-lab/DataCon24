@@ -70,3 +70,19 @@
        4.2. CPPBase_modified_symbols
       
        Contains a list of abbreviations for modified amino acids  in .txt format (ABBREVIATION: NAME; ...: ...).
+
+
+## Useful tools
+
+### Structure prediction
+
+   In the relevant folder you can find a Jupiter notebook with AlphaFold 2. 
+   
+   Just insert the sequence
+
+   ![insert sequence](https://github.com/acid-design-lab/DataCon24/assets/82499756/607ad1b2-0b29-4490-8771-76de5fd6f9b3)
+
+   and get a 3D structure!
+
+   ![3d structure](https://github.com/acid-design-lab/DataCon24/assets/82499756/93b60dd2-b627-4c46-82c9-6127af4e26bb)
+
