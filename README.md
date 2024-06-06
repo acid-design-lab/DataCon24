@@ -1,6 +1,6 @@
 # DataCon 3.0
 
-Data description:
+## Data description
 
 1. Mixed CPPs.
    
