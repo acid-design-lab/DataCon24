@@ -6,20 +6,20 @@
    
    Contains CPPs with natural or modified amino acids.
 
-       **1.1. POSEIDON**
+#### 1.1. POSEIDON
 
-        Contains heterogeneous experimental data regarding CPP (natural and non-natural amino acids) activity measurements (.csv format), which are:
-          - peptide name,
-          - target cell line CPP was tested on cell penetration ability,
-          - delivered molecule/protein,
-          - paper PubMed ID,
-          - cellular uptake measurement + measurement units,
-          - CPP+cargo concentration,
-          - incubation time,
-          - incubation temperature,
-          - determination method,
-          - uptake type,
-          - sequence.
+   Contains heterogeneous experimental data regarding CPP (natural and non-natural amino acids) activity measurements (.csv format), which are:
+   - peptide name,
+   - target cell line CPP was tested on cell penetration ability,
+   - delivered molecule/protein,
+   - paper PubMed ID,
+   - cellular uptake measurement + measurement units,
+   - CPP+cargo concentration,
+   - incubation time,
+   - incubation temperature,
+   - determination method,
+   - uptake type,
+   - sequence.
 
 ### 2. Natural CPPs
    
