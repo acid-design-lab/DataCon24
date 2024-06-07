@@ -46,7 +46,7 @@
 
 <h3> What do you need to do? :computer: </h3>
 
-   <ins><h4> 1. Choose the tasks. </h4></ins> Sequence classification, uptake quantitative prediction, or sequence generation.
+   <h4> <ins> 1. Choose the tasks. </ins> </h4> Sequence classification, uptake quantitative prediction, or sequence generation.
 
    a) <em> Sequence classification* is the easiest task, where you need to develop the model differentiating between CPP and non-CPP sequences based on the sequence. The main problem is such models do not inherently allow to find the best CPP sequences. Additional algorithm for sequence generation should be developed to discover novel CPP sequences.
    
