@@ -41,8 +41,11 @@
    **1. Choose the tasks.** Sequence classification, uptake quantitative prediction, or sequence generation.
 
    a) ***Sequence classification*** is the easiest task, where you need to develop the model differentiating between CPP and non-CPP sequences based on the sequence. The main problem is such models do not inherently allow to find the best CPP sequences. Additional algorithm for sequence generation should be developed to discover novel CPP sequences.
+   
    b) ***Uptake quantitative prediction*** is more challenging due to small data existing in the field, where you need not just predict either sequence is CPP or not, but to predict its cellular uptake depending on conditions and cell type. The problem is, despite such model allows to compare CPP activities with each other and find the best ones, additional algorithm for sequence generation is still needed.
+   
    c) ***Sequence generation*** is the most challenging task since it requires deep learning models and a lot of data. Generation can be simple or conditional. In the first case, the model should basically learn the patterns in CPP sequences and be able to generate new sequences based on these intrinsic rules (cell type, uptake value, and experimental setup are not considered). In the second case, the model should generate potential CPP sequences based on information about desired uptake, cell type, and experimental setup.
+   
    d) ***Hybrid algorithm*** is the most optimal choice, since simple classification/regression models can be "inversed" using evolutionary algorithms. Moreover, results obtained by simpler models can be reused by more complex to compensate for insufficient data.
 
    **2. Create a database.** Process datasets, look for more data, merge it, clean, and unify, create a database with DBMS.
