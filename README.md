@@ -54,6 +54,8 @@
    
    d) <strong> Hybrid algorithm </strong> is the most optimal choice, since simple classification/regression models can be "inversed" using evolutionary algorithms. Moreover, results obtained by simpler models can be reused by more complex to compensate for insufficient data.
 
+   <h1></h1>
+
    <h4> <ins>2. Create a database</ins>. Process datasets, look for more data, merge it, clean, and unify, create a database with DBMS. </h4>
 
    - study the organization of data in the datasets
@@ -66,6 +68,8 @@
    - move the data to DBMS
    - set up access, data retrieval etc.
 
+   <h1></h1>
+
    <h4> <ins>3. Analyze the data</ins>. Perform sequence alignment, look for conservative patterns, study correlations. </h4>
 
    - perform local or global sequence alignment on CPP and non-CPP sequences (either all or particular groups/clusters)
@@ -74,12 +78,16 @@
    - make correlation plots for categorical and numeric parameters
    - try to answer the question what parameters and sequence patterns lead to best-performing CPPs
 
+   <h1></h1>
+   
    <h4> <ins>4. Choose the models</ins>. Find the best-performing classification/regression/generation models to develop and compare. </h4>
 
    - do not screen models which were shown to underperform most of the modern ML/DL models
    - use the models with documented performance
    - you can use models pre-trained on more abundant data (transfer learning)
    - prioritize interpretable models over black-box
+
+   <h1></h1>
 
    <h4> <ins>5. Build and optimize the models</ins>. Check model performance on default parameters, optimize hyperparameters and architechture. </h4>
 
@@ -89,6 +97,8 @@
    - make a list of architectures you want to test (for neural networks)
    - choose a method for hyperparameter tuning (Optuna, Grid search etc.)
 
+   <h1></h1>
+
    <h4> <ins>6. Choose the best-performing model</ins>. Prioritize the list of models by accuracy, interpretability, extrapolative power, and robustness. </h4>
 
    - analyze model performance (use appropriate classification/regression metrics or loss functions)
@@ -97,12 +107,16 @@
    - analyze model speed
    - choose the best model according to these parameters
 
+   <h1></h1>
+
    <h4> <ins>7. Validate your model</ins>. Use computational, predictive, or hybrid approaches to check model consistency with first principles and previous studies. </h4>
 
    - choose the methods for additional model validation (computational models, benchmarked ML/DL models, hybrid approaches)
    - check these methods on correlation with labeled data (for instance, how good these methods differentiate between CPPs and non-CPPs)
    - analyze how good these methods explain obtained results
    - generate novel CPPs for validation
+
+   <h1></h1>
 
    <h4> <ins>8. Formalize the results</ins>. Create a repo, systematize analysis results, submit the code, ensure the code is reproducible, usable, and readable. </h4>
 
@@ -149,7 +163,7 @@
    - uptake type,
    - sequence.
 
-<hr style="border:0.5 solid gray">
+<h1></h1>
 
 <h3> 2. Natural CPPs </h3>
    
@@ -173,7 +187,7 @@
    
    Represents a balanced dataset of CPPs and non-CPPs; often used for model benchmarking.
 
-<hr style="border:1px solid gray">
+<h1></h1>
 
 <h3> 3. Non-CPPs </h3>
    
@@ -188,7 +202,7 @@
   
    Contains non-CPP sequences shown not to demonstrate activity experimentally.
 
-<hr style="border:1px solid gray">
+<h1></h1>
 
 <h3> 4. Non-Natural CPPs </h3>
    
@@ -219,7 +233,7 @@
 
    <img src="https://github.com/acid-design-lab/DataCon24/assets/82499756/640ee468-cac2-4e7d-8042-8baf68bbe865" alt="drawing" width="500"/>
 
-<hr style="border:1px solid gray">
+<h1></h1>
 
 <h3> Modelling of interaction with membrane </h3>
 
@@ -235,7 +249,7 @@
 
    <img src="https://github.com/acid-design-lab/DataCon24/assets/82499756/22cd60b9-0d0f-4021-a61e-8b0865c8b583" alt="drawing" width="500"/>
 
-<hr style="border:1px solid gray">
+<h1></h1>
 
 <h3> Membrane permeability prediction </h3>
 
