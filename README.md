@@ -6,7 +6,7 @@
 
 <h3> What are CPPs? </h3>
 
-   <div style="width: 50; margin: auto;"> <strong> Cell-penetrating peptides (CPPs) </strong> are short sequences of amino acids that have the remarkable ability to cross cellular membranes, facilitating the intracellular delivery of various therapeutic agents, including drugs, nucleic acids, and proteins. These peptides exploit mechanisms such as direct penetration or endocytosis to traverse cell membranes, making them powerful tools in drug delivery systems. </div>
+   <strong> Cell-penetrating peptides (CPPs) </strong> are short sequences of amino acids that have the remarkable ability to cross cellular membranes, facilitating the intracellular delivery of various therapeutic agents, including drugs, nucleic acids, and proteins. These peptides exploit mechanisms such as direct penetration or endocytosis to traverse cell membranes, making them powerful tools in drug delivery systems.
 
 <img src="https://github.com/acid-design-lab/DataCon24/assets/82499756/2f5822f6-cac3-492f-9a73-40b3d3e60b3e" alt="drawing" width="500"/>
 
@@ -229,5 +229,3 @@
 <h3> Membrane permeability prediction </h3>
 
    For so-called stapled peptides consisting of both natural and modified amino acids you can predict membrane permeability using [STAPEP package](https://github.com/dahuilangda/stapep_package) offering the full pipeline from data preprocessing to ML model development and use on novel samples.
-
-</div>
