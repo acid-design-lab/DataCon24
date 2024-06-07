@@ -149,6 +149,8 @@
    - uptake type,
    - sequence.
 
+<hr style="border:2px solid gray">
+
 <h3> 2. Natural CPPs </h3>
    
    Contains only sequences with natural amino acids.
