@@ -8,7 +8,7 @@
 
    **Cell-penetrating peptides (CPPs)** are short sequences of amino acids that have the remarkable ability to cross cellular membranes, facilitating the intracellular delivery of various therapeutic agents, including drugs, nucleic acids, and proteins. These peptides exploit mechanisms such as direct penetration or endocytosis to traverse cell membranes, making them powerful tools in drug delivery systems. 
 
-![image](https://github.com/acid-design-lab/DataCon24/assets/82499756/2f5822f6-cac3-492f-9a73-40b3d3e60b3e)
+<img src="https://github.com/acid-design-lab/DataCon24/assets/82499756/2f5822f6-cac3-492f-9a73-40b3d3e60b3e" alt="drawing" width="500"/>
 
    In real-world medical applications, CPPs are being leveraged to enhance the efficacy of treatments for a range of conditions. For instance, they are used in targeted cancer therapies to deliver chemotherapeutic agents directly to tumor cells, minimizing damage to healthy tissues. Additionally, CPPs are employed in gene therapy to transport genetic material into cells, offering potential treatments for genetic disorders like cystic fibrosis and muscular dystrophy. Their versatility and efficiency in overcoming cellular barriers position CPPs as a promising frontier in the development of advanced therapeutic strategies.
 
