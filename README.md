@@ -4,7 +4,7 @@
 
 <img src="https://t3.ftcdn.net/jpg/04/87/14/48/360_F_487144857_lwRd6hyeEktmt70UOAgojHzlwvY6OgQp.jpg" alt="drawing" width="1000"/>
 
-<h2> About the project </h2> :information_source:
+<h2> About the project :information_source: </h2>
 
 <h3> What are CPPs? </h3>
 
