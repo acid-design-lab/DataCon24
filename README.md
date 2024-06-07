@@ -48,7 +48,7 @@
    
    d) *Hybrid algorithm* is the most optimal choice, since simple classification/regression models can be "inversed" using evolutionary algorithms. Moreover, results obtained by simpler models can be reused by more complex to compensate for insufficient data.
 
-   **2. Create a database.** Process datasets, look for more data, merge it, clean, and unify, create a database with DBMS.
+   <ins>**2. Create a database.**</ins> Process datasets, look for more data, merge it, clean, and unify, create a database with DBMS.
 
    - study the organization of data in the datasets
    - search for additional data (high throughput screening studies, review papers, databases, datasets etc.)
@@ -60,7 +60,7 @@
    - move the data to DBMS
    - set up access, data retrieval etc.
 
-   **3. Analyze the data.** Perform sequence alignment, look for conservative patterns, study correlations.
+   <ins>**3. Analyze the data.**</ins> Perform sequence alignment, look for conservative patterns, study correlations.
 
    - perform local or global sequence alignment on CPP and non-CPP sequences (either all or particular groups/clusters)
    - make amino acid frequency maps to search for conservative patterns and dependencies
@@ -68,14 +68,14 @@
    - make correlation plots for categorical and numeric parameters
    - try to answer the question what parameters and sequence patterns lead to best-performing CPPs
 
-   **4. Choose the models.** Find the best-performing classification/regression/generation models to develop and compare.
+   <ins>**4. Choose the models.**</ins> Find the best-performing classification/regression/generation models to develop and compare.
 
    - do not screen models which were shown to underperform most of the modern ML/DL models
    - use the models with documented performance
    - you can use models pre-trained on more abundant data (transfer learning)
    - prioritize interpretable models over black-box
 
-   **5. Build and optimize the models.** Check model performance on default parameters, optimize hyperparameters and architechture.
+   <ins>**5. Build and optimize the models.**</ins> Check model performance on default parameters, optimize hyperparameters and architechture.
 
    - choose the logic of train/test split (random, stratified, rule-based etc.)
    - build basic models in simplest form
@@ -83,7 +83,7 @@
    - make a list of architectures you want to test (for neural networks)
    - choose a method for hyperparameter tuning (Optuna, Grid search etc.)
 
-   **6. Choose the best-performing model.** Prioritize the list of models by accuracy, interpretability, extrapolative power, and robustness.
+   <ins>**6. Choose the best-performing model.**</ins> Prioritize the list of models by accuracy, interpretability, extrapolative power, and robustness.
 
    - analyze model performance (use appropriate classification/regression metrics or loss functions)
    - check model extrapolative power (ability to work on samples, which differ a lot from train samples)
@@ -91,14 +91,14 @@
    - analyze model speed
    - choose the best model according to these parameters
 
-   **7. Validate your model.** Use computational, predictive, or hybrid approaches to check model consistency with first principles and previous studies.
+   <ins>**7. Validate your model.**</ins> Use computational, predictive, or hybrid approaches to check model consistency with first principles and previous studies.
 
    - choose the methods for additional model validation (computational models, benchmarked ML/DL models, hybrid approaches)
    - check these methods on correlation with labeled data (for instance, how good these methods differentiate between CPPs and non-CPPs)
    - analyze how good these methods explain obtained results
    - generate novel CPPs for validation
 
-   **8. Formalize the results.** Create a repo, systematize analysis results, submit the code, ensure the code is reproducible, usable, and readable.
+   <ins>**8. Formalize the results.**</ins> Create a repo, systematize analysis results, submit the code, ensure the code is reproducible, usable, and readable.
 
    - create a GitHub repository structure
    - sort and publish all the results obtained during data analysis
