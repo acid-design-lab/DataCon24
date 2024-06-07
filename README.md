@@ -1,4 +1,4 @@
-<div style="text-align: right">
+<div style="text-align: justify">
 
 <h1> DataCon 3.0. Design a Peptide Vector for Drug Delivery </h1>
 
