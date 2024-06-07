@@ -20,7 +20,6 @@
 
 <img src="https://github.com/acid-design-lab/DataCon24/assets/82499756/fe94406a-eaf2-46c0-8935-82e1fc4192ca" alt="drawing" width="1000"/>
 
-   <div style="text-align: justify">
    Our ultimate goal is to develop precise machine learning (ML) model allowing to <strong> design CPPs with superior activity </strong>. Here are the main steps which will allow you to build a precise model for CPP design:
    
    <strong> 1. Data curation and cleaning. </strong> All inappropriate or ambiguous data should be removed or corrected.
@@ -36,7 +35,7 @@
    <strong> 6. Evaluation. </strong> Every model should be evaluated beyond performance on train/test datasets. It can be structural analysis of CPP candidates, modelling of interaction with cellular membranes etc.
    
    <strong> 7. Project design. </strong> All results should be structured and systematized on GitHub for transparency and reproducibility.
-   </div>
+
 ---
 
 <h3> Challenges :trophy: </h3>
