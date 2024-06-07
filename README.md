@@ -16,39 +16,39 @@
 
 ---
 
-### Project pipeline :arrow_forward:
+<h3> Project pipeline </h3> :arrow_forward:
 
-![ml-project-pipeline](https://github.com/acid-design-lab/DataCon24/assets/82499756/fe94406a-eaf2-46c0-8935-82e1fc4192ca)
+<img src="https://github.com/acid-design-lab/DataCon24/assets/82499756/fe94406a-eaf2-46c0-8935-82e1fc4192ca" alt="drawing" width="1000"/>
 
-   Our ultimate goal is to develop precise machine learning (ML) model allowing to **design CPPs with superior activity**. Here are the main steps which will allow you to build a precise model for CPP design:
+   Our ultimate goal is to develop precise machine learning (ML) model allowing to <strong> design CPPs with superior activity </strong>. Here are the main steps which will allow you to build a precise model for CPP design:
    
-   **1. Data curation and cleaning.** All inappropriate or ambiguous data should be removed or corrected.
+   <strong> 1. Data curation and cleaning. </strong> All inappropriate or ambiguous data should be removed or corrected.
    
-   **2. Data unification.** The data presented in Datasets are heterogeneous and should be unified in terms of variables, measurement units etc.
+   <strong> 2. Data unification. </strong> The data presented in Datasets are heterogeneous and should be unified in terms of variables, measurement units etc.
    
-   **3. System parametriation.** You need to choose the set of parameters to describe CPPs as well as experimental setup. Most of the models use symbolic representations lacking physico-chemical properties crucial for CPP activity prediction.
+   <strong> 3. System parametriation. </strong> You need to choose the set of parameters to describe CPPs as well as experimental setup. Most of the models use symbolic representations lacking physico-chemical properties crucial for CPP activity prediction.
    
-   **4. Model selection.** Best-performing models should be choosen for screening depending on the task complexity (sequence classification or sequence generation).
+   <strong> 4. Model selection. </strong> Best-performing models should be choosen for screening depending on the task complexity (sequence classification or sequence generation).
    
-   **5. Feature selection.** After model selection, features used in the model should be choosen showing optimal prediction performance, robustness, and interpretability.
+   <strong> 5. Feature selection. </strong> After model selection, features used in the model should be choosen showing optimal prediction performance, robustness, and interpretability.
    
-   **6. Evaluation.** Every model should be evaluated beyond performance on train/test datasets. It can be structural analysis of CPP candidates, modelling of interaction with cellular membranes etc.
+   <strong> 6. Evaluation. </strong> Every model should be evaluated beyond performance on train/test datasets. It can be structural analysis of CPP candidates, modelling of interaction with cellular membranes etc.
    
-   **7. Project design.** All results should be structured and systematized on GitHub for transparency and reproducibility.
+   <strong> 7. Project design. </strong> All results should be structured and systematized on GitHub for transparency and reproducibility.
 
 ---
 
-### Challenges :trophy:
+<h3> Challenges </h3> :trophy:
 
-   The main challenge here is to develop **unbiased model** not limited to existing CPP structures and cell penetration mechanisms. Another challenge is to develop CPPs **for particular drug delivery system and setup**, which includes multi-property optimization (amphiphilicity, molecular weight, toxicity etc.). Finally, models should be **interpretable**, which means user should know why particular CPP demonstrates its activity, and what are the possible ways to improve it further.
+   The main challenge here is to develop <strong> unbiased model </strong> not limited to existing CPP structures and cell penetration mechanisms. Another challenge is to develop CPPs <strong> for particular drug delivery system and setup </strong>, which includes multi-property optimization (amphiphilicity, molecular weight, toxicity etc.). Finally, models should be <strong> interpretable </strong>, which means user should know why particular CPP demonstrates its activity, and what are the possible ways to improve it further.
 
 ---
 
-### What do you need to do? :computer:
+<h3> What do you need to do? </h3> :computer:
 
-   <ins>**1. Choose the tasks.**</ins> Sequence classification, uptake quantitative prediction, or sequence generation.
+   <ins><h4> 1. Choose the tasks. </h4></ins> Sequence classification, uptake quantitative prediction, or sequence generation.
 
-   a) *Sequence classification* is the easiest task, where you need to develop the model differentiating between CPP and non-CPP sequences based on the sequence. The main problem is such models do not inherently allow to find the best CPP sequences. Additional algorithm for sequence generation should be developed to discover novel CPP sequences.
+   a) <em> Sequence classification* is the easiest task, where you need to develop the model differentiating between CPP and non-CPP sequences based on the sequence. The main problem is such models do not inherently allow to find the best CPP sequences. Additional algorithm for sequence generation should be developed to discover novel CPP sequences.
    
    b) *Uptake quantitative prediction* is more challenging due to small data existing in the field, where you need not just predict either sequence is CPP or not, but to predict its cellular uptake depending on conditions and cell type. The problem is, despite such model allows to compare CPP activities with each other and find the best ones, additional algorithm for sequence generation is still needed.
    
