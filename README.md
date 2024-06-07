@@ -44,7 +44,7 @@
 
 <h3> What do you need to do? :computer: </h3>
 
-   <h4> <ins> 1. Choose the tasks. </ins> Sequence classification, uptake quantitative prediction, or sequence generation. </h4>
+   <h4> <ins>1. Choose the tasks</ins>. Sequence classification, uptake quantitative prediction, or sequence generation. </h4>
 
    a) <strong> Sequence classification </strong> is the easiest task, where you need to develop the model differentiating between CPP and non-CPP sequences based on the sequence. The main problem is such models do not inherently allow to find the best CPP sequences. Additional algorithm for sequence generation should be developed to discover novel CPP sequences.
    
@@ -54,7 +54,7 @@
    
    d) <strong> Hybrid algorithm </strong> is the most optimal choice, since simple classification/regression models can be "inversed" using evolutionary algorithms. Moreover, results obtained by simpler models can be reused by more complex to compensate for insufficient data.
 
-   <h4> <ins> 2. Create a database. </ins> Process datasets, look for more data, merge it, clean, and unify, create a database with DBMS. </h4>
+   <h4> <ins>2. Create a database</ins>. Process datasets, look for more data, merge it, clean, and unify, create a database with DBMS. </h4>
 
    - study the organization of data in the datasets
    - search for additional data (high throughput screening studies, review papers, databases, datasets etc.)
@@ -66,7 +66,7 @@
    - move the data to DBMS
    - set up access, data retrieval etc.
 
-   <h4> <ins> 3. Analyze the data. </ins> Perform sequence alignment, look for conservative patterns, study correlations. </h4>
+   <h4> <ins>3. Analyze the data</ins>. Perform sequence alignment, look for conservative patterns, study correlations. </h4>
 
    - perform local or global sequence alignment on CPP and non-CPP sequences (either all or particular groups/clusters)
    - make amino acid frequency maps to search for conservative patterns and dependencies
@@ -74,14 +74,14 @@
    - make correlation plots for categorical and numeric parameters
    - try to answer the question what parameters and sequence patterns lead to best-performing CPPs
 
-   <h4> <ins> 4. Choose the models. </ins> Find the best-performing classification/regression/generation models to develop and compare. </h4>
+   <h4> <ins>4. Choose the models</ins>. Find the best-performing classification/regression/generation models to develop and compare. </h4>
 
    - do not screen models which were shown to underperform most of the modern ML/DL models
    - use the models with documented performance
    - you can use models pre-trained on more abundant data (transfer learning)
    - prioritize interpretable models over black-box
 
-   <h4> <ins> 5. Build and optimize the models. </ins> Check model performance on default parameters, optimize hyperparameters and architechture. </h4>
+   <h4> <ins>5. Build and optimize the models</ins>. Check model performance on default parameters, optimize hyperparameters and architechture. </h4>
 
    - choose the logic of train/test split (random, stratified, rule-based etc.)
    - build basic models in simplest form
@@ -89,7 +89,7 @@
    - make a list of architectures you want to test (for neural networks)
    - choose a method for hyperparameter tuning (Optuna, Grid search etc.)
 
-   <h4> <ins> 6. Choose the best-performing model. </ins> Prioritize the list of models by accuracy, interpretability, extrapolative power, and robustness. </h4>
+   <h4> <ins>6. Choose the best-performing model</ins>. Prioritize the list of models by accuracy, interpretability, extrapolative power, and robustness. </h4>
 
    - analyze model performance (use appropriate classification/regression metrics or loss functions)
    - check model extrapolative power (ability to work on samples, which differ a lot from train samples)
@@ -97,14 +97,14 @@
    - analyze model speed
    - choose the best model according to these parameters
 
-   <h4> <ins> 7. Validate your model. </ins> Use computational, predictive, or hybrid approaches to check model consistency with first principles and previous studies. </h4>
+   <h4> <ins>7. Validate your model</ins>. Use computational, predictive, or hybrid approaches to check model consistency with first principles and previous studies. </h4>
 
    - choose the methods for additional model validation (computational models, benchmarked ML/DL models, hybrid approaches)
    - check these methods on correlation with labeled data (for instance, how good these methods differentiate between CPPs and non-CPPs)
    - analyze how good these methods explain obtained results
    - generate novel CPPs for validation
 
-   <h4> <ins> 8. Formalize the results. </ins> Create a repo, systematize analysis results, submit the code, ensure the code is reproducible, usable, and readable. </h4>
+   <h4> <ins>8. Formalize the results</ins>. Create a repo, systematize analysis results, submit the code, ensure the code is reproducible, usable, and readable. </h4>
 
    - create a GitHub repository structure
    - sort and publish all the results obtained during data analysis
