@@ -194,11 +194,11 @@
    
    Just insert the sequence
 
-   ![insert sequence](https://github.com/acid-design-lab/DataCon24/assets/82499756/607ad1b2-0b29-4490-8771-76de5fd6f9b3)
+   <img src="https://github.com/acid-design-lab/DataCon24/assets/82499756/607ad1b2-0b29-4490-8771-76de5fd6f9b3" alt="drawing" width="1000"/>
 
    and get a 3D structure!
-   
-   ![3d-transformed](https://github.com/acid-design-lab/DataCon24/assets/82499756/640ee468-cac2-4e7d-8042-8baf68bbe865)
+
+   <img src="https://github.com/acid-design-lab/DataCon24/assets/82499756/640ee468-cac2-4e7d-8042-8baf68bbe865" alt="drawing" width="500"/>
 
 ### Modelling of interaction with membrane
 
@@ -212,9 +212,9 @@
 
    For so-called stapled peptides consisting of both natural and modified amino acids you can predict membrane permeability using [STAPEP package](https://github.com/dahuilangda/stapep_package) offering the full pipeline from data preprocessing to ML model development and use on novel samples.
 
-   ![image](https://github.com/acid-design-lab/DataCon24/assets/82499756/b43c427b-c504-471d-97f8-fee6988ffd22)
+   <img src="https://github.com/acid-design-lab/DataCon24/assets/82499756/b43c427b-c504-471d-97f8-fee6988ffd22" alt="drawing" width="500"/>
 
    Non-CPP sequence is predicted **NOT TO BIND** to the membrane.
 
-   ![image](https://github.com/acid-design-lab/DataCon24/assets/82499756/2b559f32-b117-49a0-a3a2-a3298dabcd6c)
+   <img src="https://github.com/acid-design-lab/DataCon24/assets/82499756/2b559f32-b117-49a0-a3a2-a3298dabcd6c" alt="drawing" width="500"/>
 
