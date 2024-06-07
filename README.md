@@ -129,7 +129,7 @@
 
    and get a 3D structure!
 
-   ![3d structure](https://github.com/acid-design-lab/DataCon24/assets/82499756/93b60dd2-b627-4c46-82c9-6127af4e26bb)
+   ![3d](https://github.com/acid-design-lab/DataCon24/assets/82499756/2b02a2e2-c471-4cbd-9824-28123bc12925)
 
 ### Modelling of interaction with membrane
 
