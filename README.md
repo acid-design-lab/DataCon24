@@ -1,4 +1,4 @@
-<p style="text-align: justify;">
+<div style="width: 300px; margin: auto;">
 
 <h1> DataCon 3.0. Design a Peptide Vector for Drug Delivery </h1>
 
@@ -232,4 +232,4 @@
 
    For so-called stapled peptides consisting of both natural and modified amino acids you can predict membrane permeability using [STAPEP package](https://github.com/dahuilangda/stapep_package) offering the full pipeline from data preprocessing to ML model development and use on novel samples.
 
-</p>
+</div>
