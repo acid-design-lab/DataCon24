@@ -207,14 +207,14 @@
    Example: 
 
    CPP sequence FSLHRYMAWFCPWTGAWLMLD is predicted to **BIND** to the membrane.
+   
+   <img src="https://github.com/acid-design-lab/DataCon24/assets/82499756/b43c427b-c504-471d-97f8-fee6988ffd22" alt="drawing" width="500"/>
+
+   Non-CPP sequence GSRVQIRCRFRNSTR is predicted **NOT TO BIND** to the membrane.
+
+   <img src="https://github.com/acid-design-lab/DataCon24/assets/82499756/22cd60b9-0d0f-4021-a61e-8b0865c8b583" alt="drawing" width="500"/>
 
 ### Membrane permeability prediction
 
    For so-called stapled peptides consisting of both natural and modified amino acids you can predict membrane permeability using [STAPEP package](https://github.com/dahuilangda/stapep_package) offering the full pipeline from data preprocessing to ML model development and use on novel samples.
-
-   <img src="https://github.com/acid-design-lab/DataCon24/assets/82499756/b43c427b-c504-471d-97f8-fee6988ffd22" alt="drawing" width="500"/>
-
-   Non-CPP sequence is predicted **NOT TO BIND** to the membrane.
-
-   <img src="https://github.com/acid-design-lab/DataCon24/assets/82499756/2b559f32-b117-49a0-a3a2-a3298dabcd6c" alt="drawing" width="500"/>
 
