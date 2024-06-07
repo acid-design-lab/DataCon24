@@ -1,4 +1,6 @@
-# DataCon 3.0. Design a Peptide Vector for Drug Delivery
+<div style="text-align: right">
+
+<h1> DataCon 3.0. Design a Peptide Vector for Drug Delivery </h1>
 
 <img src="https://t3.ftcdn.net/jpg/04/87/14/48/360_F_487144857_lwRd6hyeEktmt70UOAgojHzlwvY6OgQp.jpg" alt="drawing" width="1000"/>
 
@@ -229,3 +231,5 @@
 ### Membrane permeability prediction
 
    For so-called stapled peptides consisting of both natural and modified amino acids you can predict membrane permeability using [STAPEP package](https://github.com/dahuilangda/stapep_package) offering the full pipeline from data preprocessing to ML model development and use on novel samples.
+
+</div>
