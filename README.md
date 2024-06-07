@@ -2,7 +2,7 @@
 
 <img src="https://t3.ftcdn.net/jpg/04/87/14/48/360_F_487144857_lwRd6hyeEktmt70UOAgojHzlwvY6OgQp.jpg" alt="drawing" width="1000"/>
 
-## About the project :information_source:
+**About the project** :information_source:
 
 ---
 
