@@ -26,7 +26,7 @@
    
    **4. Model selection.** Best-performing models should be choosen for screening depending on the task complexity (sequence classification or sequence generation).
    
-   **5. Feature selecction.** After model selection, features used in the model should be choosen showing optimal prediction performance, robustness, and interpretability.
+   **5. Feature selection.** After model selection, features used in the model should be choosen showing optimal prediction performance, robustness, and interpretability.
    
    **6. Evaluation.** Every model should be evaluated beyond performance on train/test datasets. It can be structural analysis of CPP candidates, modelling of interaction with cellular membranes etc.
    
