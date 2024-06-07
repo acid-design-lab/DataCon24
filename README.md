@@ -4,11 +4,11 @@
 
 <img src="https://t3.ftcdn.net/jpg/04/87/14/48/360_F_487144857_lwRd6hyeEktmt70UOAgojHzlwvY6OgQp.jpg" alt="drawing" width="1000"/>
 
-## About the project :information_source:
+<h2> About the project </h2> :information_source:
 
-### What are CPPs?
+<h3> What are CPPs? </h3>
 
-   **Cell-penetrating peptides (CPPs)** are short sequences of amino acids that have the remarkable ability to cross cellular membranes, facilitating the intracellular delivery of various therapeutic agents, including drugs, nucleic acids, and proteins. These peptides exploit mechanisms such as direct penetration or endocytosis to traverse cell membranes, making them powerful tools in drug delivery systems.
+   <strong> Cell-penetrating peptides (CPPs) </strong> are short sequences of amino acids that have the remarkable ability to cross cellular membranes, facilitating the intracellular delivery of various therapeutic agents, including drugs, nucleic acids, and proteins. These peptides exploit mechanisms such as direct penetration or endocytosis to traverse cell membranes, making them powerful tools in drug delivery systems.
 
 <img src="https://github.com/acid-design-lab/DataCon24/assets/82499756/2f5822f6-cac3-492f-9a73-40b3d3e60b3e" alt="drawing" width="500"/>
 
