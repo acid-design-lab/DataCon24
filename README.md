@@ -16,7 +16,7 @@
 
 ---
 
-<h3> Project pipeline </h3> :arrow_forward:
+<h3> Project pipeline :arrow_forward: </h3>
 
 <img src="https://github.com/acid-design-lab/DataCon24/assets/82499756/fe94406a-eaf2-46c0-8935-82e1fc4192ca" alt="drawing" width="1000"/>
 
@@ -38,13 +38,13 @@
 
 ---
 
-<h3> Challenges </h3> :trophy:
+<h3> Challenges :trophy: </h3>
 
    The main challenge here is to develop <strong> unbiased model </strong> not limited to existing CPP structures and cell penetration mechanisms. Another challenge is to develop CPPs <strong> for particular drug delivery system and setup </strong>, which includes multi-property optimization (amphiphilicity, molecular weight, toxicity etc.). Finally, models should be <strong> interpretable </strong>, which means user should know why particular CPP demonstrates its activity, and what are the possible ways to improve it further.
 
 ---
 
-<h3> What do you need to do? </h3> :computer:
+<h3> What do you need to do? :computer: </h3>
 
    <ins><h4> 1. Choose the tasks. </h4></ins> Sequence classification, uptake quantitative prediction, or sequence generation.
 
