@@ -149,7 +149,7 @@
    - uptake type,
    - sequence.
 
-<hr style="border:1 solid gray">
+<hr style="border:0.5 solid gray">
 
 <h3> 2. Natural CPPs </h3>
    
