@@ -149,7 +149,7 @@
    - uptake type,
    - sequence.
 
-<hr style="border:2px solid gray">
+<hr style="border:1px solid gray">
 
 <h3> 2. Natural CPPs </h3>
    
@@ -173,6 +173,8 @@
    
    Represents a balanced dataset of CPPs and non-CPPs; often used for model benchmarking.
 
+<hr style="border:1px solid gray">
+
 <h3> 3. Non-CPPs </h3>
    
    Contains negative CPP samples in .txt format.
@@ -185,6 +187,8 @@
    <h4> 3.2. Experimental </h4>
   
    Contains non-CPP sequences shown not to demonstrate activity experimentally.
+
+<hr style="border:1px solid gray">
 
 <h3> 4. Non-Natural CPPs </h3>
    
@@ -199,6 +203,7 @@
   
    Contains a list of abbreviations for modified amino acids  in .txt format (ABBREVIATION: NAME; ...: ...).
 
+---
 
 <h2> Useful tools :bookmark_tabs: </h2>
 
@@ -214,6 +219,8 @@
 
    <img src="https://github.com/acid-design-lab/DataCon24/assets/82499756/640ee468-cac2-4e7d-8042-8baf68bbe865" alt="drawing" width="500"/>
 
+<hr style="border:1px solid gray">
+
 <h3> Modelling of interaction with membrane </h3>
 
    For CPPs from 7 to 24 amino acids you can use [PMIpred neural network model](https://pmipred.fkt.physik.tu-dortmund.de/curvature-sensing-peptide/) trained on Molecular Dynamics (MD) data to predict its interaction with the cellular membrane. Please use modelling on neutral membrane for better differentiation between CPPs and non-CPPs.
@@ -227,6 +234,8 @@
    Non-CPP sequence GSRVQIRCRFRNSTR is predicted **NOT TO BIND** to the membrane.
 
    <img src="https://github.com/acid-design-lab/DataCon24/assets/82499756/22cd60b9-0d0f-4021-a61e-8b0865c8b583" alt="drawing" width="500"/>
+
+<hr style="border:1px solid gray">
 
 <h3> Membrane permeability prediction </h3>
 
