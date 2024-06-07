@@ -1,5 +1,3 @@
-<div style="width: 300px; margin: auto;">
-
 <h1> DataCon 3.0. Design a Peptide Vector for Drug Delivery </h1>
 
 <img src="https://t3.ftcdn.net/jpg/04/87/14/48/360_F_487144857_lwRd6hyeEktmt70UOAgojHzlwvY6OgQp.jpg" alt="drawing" width="1000"/>
@@ -8,7 +6,7 @@
 
 <h3> What are CPPs? </h3>
 
-   <strong> Cell-penetrating peptides (CPPs) </strong> are short sequences of amino acids that have the remarkable ability to cross cellular membranes, facilitating the intracellular delivery of various therapeutic agents, including drugs, nucleic acids, and proteins. These peptides exploit mechanisms such as direct penetration or endocytosis to traverse cell membranes, making them powerful tools in drug delivery systems.
+   <div style="width: 300px; margin: auto;"> <strong> Cell-penetrating peptides (CPPs) </strong> are short sequences of amino acids that have the remarkable ability to cross cellular membranes, facilitating the intracellular delivery of various therapeutic agents, including drugs, nucleic acids, and proteins. These peptides exploit mechanisms such as direct penetration or endocytosis to traverse cell membranes, making them powerful tools in drug delivery systems. </div>
 
 <img src="https://github.com/acid-design-lab/DataCon24/assets/82499756/2f5822f6-cac3-492f-9a73-40b3d3e60b3e" alt="drawing" width="500"/>
 
