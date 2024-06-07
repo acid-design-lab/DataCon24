@@ -2,7 +2,7 @@
 
 <img src="https://t3.ftcdn.net/jpg/04/87/14/48/360_F_487144857_lwRd6hyeEktmt70UOAgojHzlwvY6OgQp.jpg" alt="drawing" width="1000"/>
 
-**About the project** :information_source:
+## About the project :information_source:
 
 ---
 
@@ -36,9 +36,13 @@
    
    **7. Project design.** All results should be structured and systematized on GitHub for transparency and reproducibility.
 
+---
+
 ### Challenges :trophy:
 
    The main challenge here is to develop **unbiased model** not limited to existing CPP structures and cell penetration mechanisms. Another challenge is to develop CPPs **for particular drug delivery system and setup**, which includes multi-property optimization (amphiphilicity, molecular weight, toxicity etc.). Finally, models should be **interpretable**, which means user should know why particular CPP demonstrates its activity, and what are the possible ways to improve it further.
+
+---
 
 ### What do you need to do? :computer:
 
@@ -109,16 +113,22 @@
    - structure, debug, and prettify the code
    - ensure all dependencies needed for correct code work are listed in requirements.txt
 
-### Schedule :calendar:
+---
+
+## Schedule :calendar:
 
    DataCon 3.0 includes not only practices but authoritative lectures and other activities, therefore check for any schedule updates [HERE](https://scamt.ifmo.ru/datacon/).
 
-### Contents :open_book:
+---
+
+## Contents :open_book:
 
    This repository contains the following data:
    1. **Articles about CPPs** to read (see the relevant folder)
    2. **Available datasets** for model development (see **Data Description** section)
    3. **Useful tools** for property and structure prediction (see **Useful tools** section and relevant folder)
+
+---
 
 ## Data description :floppy_disk:
 
